@@ -33,7 +33,7 @@
   </name>
 
   <name key="Crow" tags="f">
-    <singular>Crow</singular>
+    <singular>Karga</singular>
     <plural>Crows</plural>
   </name>
 
@@ -2653,7 +2653,7 @@
     { #creature_m #creature_n ein | #creature_f eine } [@creature_singular $creature]
     namens [@name $name] { #creature_m #creature_n sein | #creature_f ihr } Unwesen.
     %
-    Du musst  { #creature_m ihn | #creature_n es | #creature_f sie } bekämpfen! Aber pass auf, { #creature_m er | #creature_n es | #creature_f sie } ist viel stärker als gewöhnliche [@creature_plural $creature].
+    Du musst  { #creature_m ihn | #creature_n es | #creature_f sie } bekï¿½mpfen! Aber pass auf, { #creature_m er | #creature_n es | #creature_f sie } ist viel stï¿½rker als gewï¿½hnliche [@creature_plural $creature].
   </speech>
 
   <speech key="objective:rareboss">
@@ -2666,7 +2666,7 @@
   </speech>
 
   <speech key="description:villagerareboss">
-    { #creature_m Ein ungewöhnlich starker | #creature_n ein ungewöhnlich starkes | #creature_f eine ungewöhnlich starke} [@creature_singular $creature]
+    { #creature_m Ein ungewï¿½hnlich starker | #creature_n ein ungewï¿½hnlich starkes | #creature_f eine ungewï¿½hnlich starke} [@creature_singular $creature]
     greift die Einwohner von [@scenery_singular $zone] an!
     %
     Du musst { #creature_m ihn | #creature_n es | #creature_f sie } vertreiben! Sein name scheint [@name $name] zu sein.
@@ -2693,43 +2693,43 @@
   </speech>
 
   <speech key="description:invasion">
-    Bösartige [@creature_plural $creature] treiben sich im ganzen Land herum! Du musst etwas unternehmen.
+    Bï¿½sartige [@creature_plural $creature] treiben sich im ganzen Land herum! Du musst etwas unternehmen.
     %
-    Besiege so viele [@creature_plural $creature] wie möglich!
+    Besiege so viele [@creature_plural $creature] wie mï¿½glich!
   </speech>
 
   <speech key="objective:invasion">
-    Besiege die [@creature_plural $creature] in den [Ländern von @land $zone].
+    Besiege die [@creature_plural $creature] in den [Lï¿½ndern von @land $zone].
   </speech>
 
   <speech key="description:caveinvasion">
-    In letzter Zeit werden in [Höhlen $zone] überall [@creature_plural $creature] gesichtet.
+    In letzter Zeit werden in [Hï¿½hlen $zone] ï¿½berall [@creature_plural $creature] gesichtet.
     %
-    Sie stellen eine Gefahr für jeden Abenteurer da!
+    Sie stellen eine Gefahr fï¿½r jeden Abenteurer da!
     %
-    Spüre die [@creature_plural $creature] in [Höhlen $zone] auf und bekämpfe sie!
+    Spï¿½re die [@creature_plural $creature] in [Hï¿½hlen $zone] auf und bekï¿½mpfe sie!
   </speech>
 
   <speech key="objective:caveinvasion">
-    Spüre die [@creature_plural $creature] in [Höhlen $zone] auf und bekämpfe sie.
+    Spï¿½re die [@creature_plural $creature] in [Hï¿½hlen $zone] auf und bekï¿½mpfe sie.
   </speech>
 
   <speech key="description:riverinvasion">
-    Es häufen sich die Berichte über bösartige [@creature_plural $creature]!
+    Es hï¿½ufen sich die Berichte ï¿½ber bï¿½sartige [@creature_plural $creature]!
     %
-    Anscheinend sind sie vermehrt in der Nähe von [Flüssen $zone] zu finden.
+    Anscheinend sind sie vermehrt in der Nï¿½he von [Flï¿½ssen $zone] zu finden.
     %
-    Suche die [Flüsse $zone] im ganzen Land ab und bekämpfe die [@creature_plural $creature]!
+    Suche die [Flï¿½sse $zone] im ganzen Land ab und bekï¿½mpfe die [@creature_plural $creature]!
   </speech>
 
   <speech key="objective:riverinvasion">
-    Suche die [Flüsse $zone] im ganzen Land ab und bekämpfe die [@creature_plural $creature].
+    Suche die [Flï¿½sse $zone] im ganzen Land ab und bekï¿½mpfe die [@creature_plural $creature].
   </speech>
 
   <speech key="description:dungeon">
     {#zone_m #zone_n Im | #zone_f In der | #zone_p In den} [@zone_dativ $zone] scheint sich ein neuer [Herrscher $creature] eingenistet zu haben.
     %
-    Er ist sehr mächtig und sehr gefährlich!
+    Er ist sehr mï¿½chtig und sehr gefï¿½hrlich!
     %
     Du musst {#zone_m in den | #zone_n in das |  #zone_f #zone_p in die} [@zone_akkusativ $zone] eindringen und den [Herrscher $creature] besiegen.
   </speech>
@@ -2746,9 +2746,9 @@
     | #scenery_auf { #scenery_m #scenery_n auf dem [@scenery_dativ $zone] | #scenery_f auf der [@scenery_dativ $zone] | #scenery_p auf den [@scenery_dativ $zone] }
     | #scenery_in2 in [@scenery_singular $zone]
     }
-    gesichtet! Wir müssen sie zurückschlagen!
+    gesichtet! Wir mï¿½ssen sie zurï¿½ckschlagen!
     %
-    Besiege so viele [@creature_plural $creature] wie möglich!
+    Besiege so viele [@creature_plural $creature] wie mï¿½glich!
   </speech>
 
   <speech key="objective:sceneryinvasion">
@@ -2763,7 +2763,7 @@
   <speech key="description:villageinvasion">
     [@creature_plural $creature] sind in der Stadt! Sie greifen alles und jeden an!
     %
-    Wir müssen sie vertreiben! Besiege so viele [@creature_plural $creature] wie möglich!
+    Wir mï¿½ssen sie vertreiben! Besiege so viele [@creature_plural $creature] wie mï¿½glich!
   </speech>
 
   <speech key="objective:villageinvasion">
@@ -2771,14 +2771,14 @@
   </speech>
 
   <speech key="description:gang">
-    Zur Zeit macht eine [@creature_dativ-Bande $creature] Ärger
+    Zur Zeit macht eine [@creature_dativ-Bande $creature] ï¿½rger
     { #scenery_in { #scenery_m #scenery_n im [@scenery_singular $zone] | #scenery_f in der [@scenery_singular $zone] | #scenery_p in den [@scenery_dativ $zone] }
     | #scenery_an { #scenery_m #scenery_n am [@scenery_singular $zone] | #scenery_f an der [@scenery_singular $zone] | #scenery_p an den [@scenery_dativ $zone] }
     | #scenery_auf { #scenery_m #scenery_n auf dem [@scenery_singular $zone] | #scenery_f auf der [@scenery_singular $zone] | #scenery_p auf den [@scenery_dativ $zone] }
     | #scenery_in2 in [@scenery_singular $zone]
     }.
     %
-    Sie haben schon mehrere Einwohner überfallen und ausgeraubt!
+    Sie haben schon mehrere Einwohner ï¿½berfallen und ausgeraubt!
     %
     Los, zeig es ihnen!
   </speech>
@@ -2802,11 +2802,11 @@
     | #scenery_in2 in [@scenery_singular $zone]
     } herum.
     %
-    Du musst ihren Anführer [@name $name] besiegen!
+    Du musst ihren Anfï¿½hrer [@name $name] besiegen!
   </speech>
 
   <speech key="objective:gangboss">
-    Besiege [@name $name], den Anführer der [@creature_dativ-Banditen $creature]
+    Besiege [@name $name], den Anfï¿½hrer der [@creature_dativ-Banditen $creature]
     { #scenery_in { #scenery_m #scenery_n im [@scenery_singular $zone] | #scenery_f in der [@scenery_singular $zone] | #scenery_p in den [@scenery_dativ $zone] }
     | #scenery_an { #scenery_m #scenery_n am [@scenery_singular $zone] | #scenery_f an der [@scenery_singular $zone] | #scenery_p an den [@scenery_dativ $zone] }
     | #scenery_auf { #scenery_m #scenery_n auf dem [@scenery_singular $zone] | #scenery_f auf der [@scenery_singular $zone] | #scenery_p auf den [@scenery_dativ $zone] }
@@ -2824,13 +2824,13 @@
   </speech>
 
   <speech key="experience">
-    Du hast alle Aufgaben hervorragend gemeistert! Aber du brauchst noch mehr Übung.
+    Du hast alle Aufgaben hervorragend gemeistert! Aber du brauchst noch mehr ï¿½bung.
     %
     Wir sollten uns wieder unterhalten, sobald du [mehr Erfahrung $stress] gesammelt hast!
   </speech>
 
   <speech key="mission:giveup">
-    Möchtest du deine aktuelle Mission aufgeben?
+    Mï¿½chtest du deine aktuelle Mission aufgeben?
   </speech>
 
   <speech key="level">
@@ -2867,11 +2867,11 @@
   <speech key="speech:mage:1.2.1">
     Du willst also Magier werden? Nun, du siehst recht talentiert aus!
     %
-    Doch bevor wir mit der Ausbildung beginnen können, brauchst du einen [Stab $item]!
+    Doch bevor wir mit der Ausbildung beginnen kï¿½nnen, brauchst du einen [Stab $item]!
     %
-    Jeder Schüler der Magie muss sich seinen [Stab $item] selbst herstellen.
+    Jeder Schï¿½ler der Magie muss sich seinen [Stab $item] selbst herstellen.
     %
-    Dein erster [Stab $item] wird aus [Holz $item] gefertigt werden! Überall in der Gegend wachsen [Büsche $creature].
+    Dein erster [Stab $item] wird aus [Holz $item] gefertigt werden! ï¿½berall in der Gegend wachsen [Bï¿½sche $creature].
     %
     Zerkleinere ein paar von ihnen und bringe etwas [Holz $item] mit!
   </speech>
@@ -2885,7 +2885,7 @@
 
 
   <speech key="title:mage:1.3">
-    Übung macht den Meister
+    ï¿½bung macht den Meister
   </speech>
 
   <speech key="speech:mage:1.3">
@@ -2893,11 +2893,11 @@
     %
     Ich bringe dir nun den [Feuerschock $stress] bei.
     %
-    Lege deinen Stab an und probiere [Feuerschock $stress] an einer [Übungspuppe $creature] aus!
+    Lege deinen Stab an und probiere [Feuerschock $stress] an einer [ï¿½bungspuppe $creature] aus!
   </speech>
 
   <speech key="objective:mage:1.3">
-    Übe [Feuerschock $stress] (@num/@amount)
+    ï¿½be [Feuerschock $stress] (@num/@amount)
   </speech>
 
 
@@ -2910,11 +2910,11 @@
   </speech>
 
   <speech key="speech:mage:1.4">
-    Sieht so aus als hättest du wirklich Talent! Es ist nun an der Zeit richtige [Monster $creature] zu bekämpfen.
+    Sieht so aus als hï¿½ttest du wirklich Talent! Es ist nun an der Zeit richtige [Monster $creature] zu bekï¿½mpfen.
     %
-    Besiege ein paar [Schleime $creature] um deine fähigkeiten im Kampf zu trainieren.
+    Besiege ein paar [Schleime $creature] um deine fï¿½higkeiten im Kampf zu trainieren.
     %
-    Du findest [Schleime $creature] meistens in [Höhlen $zone]!
+    Du findest [Schleime $creature] meistens in [Hï¿½hlen $zone]!
   </speech>
 
   <!--Warrior quest LVL 1-->
@@ -2933,39 +2933,39 @@
 
 
   <speech key="speech:warrior:1.2.1">
-    Du möchtest also [Krieger $stress] werden? Na gut, ich werde dich unterrichten.
+    Du mï¿½chtest also [Krieger $stress] werden? Na gut, ich werde dich unterrichten.
     %
-    Doch bevor wir mit der Ausbildung beginnen können, brauchst du eine Waffe!
+    Doch bevor wir mit der Ausbildung beginnen kï¿½nnen, brauchst du eine Waffe!
     %
-    Deine erste Waffe wird ein [Großstreitkolben $item] sein! Und du musst ihn selbst herstellen.
+    Deine erste Waffe wird ein [Groï¿½streitkolben $item] sein! Und du musst ihn selbst herstellen.
     %
-    Dein [Großstreitkolben $item] wird aus [Holz $item] gefertigt werden! Überall in der Gegend wachsen [Büsche $creature].
+    Dein [Groï¿½streitkolben $item] wird aus [Holz $item] gefertigt werden! ï¿½berall in der Gegend wachsen [Bï¿½sche $creature].
     %
     Zerkleinere ein paar von ihnen und bringe etwas [Holz $item] mit!
   </speech>
 
 
   <speech key="speech:warrior:1.2.2">
-    Gute Arbeit! Nun musst du nur noch deinen [Großstreitkolben $item] herstellen.
+    Gute Arbeit! Nun musst du nur noch deinen [Groï¿½streitkolben $item] herstellen.
     %
-    Suche im [Handwerksviertel $zone] die [Werkbank $object] und fertige einen [Großstreitkolben $item] an!
+    Suche im [Handwerksviertel $zone] die [Werkbank $object] und fertige einen [Groï¿½streitkolben $item] an!
   </speech>
 
 
   <speech key="title:warrior:1.3">
-    Übung macht den Meister
+    ï¿½bung macht den Meister
   </speech>
 
   <speech key="speech:warrior:1.3">
-    Wie ich sehe hast du hast deinen [Großstreitkolben $item] fertiggestellt!
+    Wie ich sehe hast du hast deinen [Groï¿½streitkolben $item] fertiggestellt!
     %
     Ich bringe dir nun das [Zuschlagen $stress] bei.
     %
-    Lege deinen [Großstreitkolben $item] an und probiere [Zuschlagen $stress] an einer [Übungspuppe $creature] aus!
+    Lege deinen [Groï¿½streitkolben $item] an und probiere [Zuschlagen $stress] an einer [ï¿½bungspuppe $creature] aus!
   </speech>
 
   <speech key="objective:warrior:1.3">
-    Übe [Zuschlagen $stress] (@num/@amount)
+    ï¿½be [Zuschlagen $stress] (@num/@amount)
   </speech>
 
 
@@ -2978,11 +2978,11 @@
   </speech>
 
   <speech key="speech:warrior:1.4">
-    Ja, du hast wirklich das Talent zum [Krieger $stress]. Es ist nun an der Zeit richtige [Monster $creature] zu bekämpfen.
+    Ja, du hast wirklich das Talent zum [Krieger $stress]. Es ist nun an der Zeit richtige [Monster $creature] zu bekï¿½mpfen.
     %
-    Besiege ein paar [Schleime $creature] um deine Fähigkeiten im Kampf zu trainieren.
+    Besiege ein paar [Schleime $creature] um deine Fï¿½higkeiten im Kampf zu trainieren.
     %
-    Du findest [Schleime $creature] meistens in [Höhlen $zone]!
+    Du findest [Schleime $creature] meistens in [Hï¿½hlen $zone]!
   </speech>
 
   <speech key="speech:warrior:2.1">
