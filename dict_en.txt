@@ -3,13 +3,13 @@
 <root>
 
   <name key="Wizard" tags="m">
-    <singular>Wizard</singular>    
-    <plural>Wizard</plural>
+    <singular>Büyücü</singular>    
+    <plural>Büyücüler</plural>
   </name>
 
   <name key="OldMan" tags="m an">
-    <singular>old Man</singular>   
-    <plural>old Men</plural>
+    <singular>Yaşlı Adam</singular>   
+    <plural>Yaşlı Adamlar</plural>
   </name>
 
   <name key="LizardmanMale" tags="m">
@@ -24,58 +24,58 @@
 
   <name key="GoblinMale" tags="m">
     <singular>Goblin</singular>
-    <plural>Goblins</plural>
+    <plural>Goblinler</plural>
   </name>
 
   <name key="GoblinFemale" tags="f">
     <singular>Goblin</singular>
-    <plural>Goblins</plural>
+    <plural>Goblinler</plural>
   </name>
 
   <name key="Crow" tags="f">
     <singular>Karga</singular>
-    <plural>Crows</plural>
+    <plural>Kargalar</plural>
   </name>
 
   <name key="Parrot" tags="m">
-    <singular>Parrot</singular>
-    <plural>Parrots</plural>
+    <singular>Papağan</singular>
+    <plural>Papağanlar</plural>
   </name>
 
   <name key="Peacock" tags="m">
-    <singular>Peacock</singular>
-    <plural>Peacocks</plural>
+    <singular>Tavuskuşu</singular>
+    <plural>Tavuskuşları</plural>
   </name>
 
   <name key="Seagull" tags="f">
-    <singular>Seagull</singular>
-    <plural>Seagulls</plural>
+    <singular>Martı</singular>
+    <plural>Martılar</plural>
   </name>
 
   <name key="Bat" tags="f">
-    <singular>Bat</singular>
-    <plural>Bats</plural>
+    <singular>Yarasa</singular>
+    <plural>Yarasalar</plural>
   </name>
 
   <name key="Hornet" tags="f">
-    <singular>Hornet</singular>
-    <plural>Hornets</plural>
+    <singular>Eşek Arısı</singular>
+    <plural>Eşek Arıları</plural>
   </name>
 
   <name key="Bumblebee" tags="f">
-    <singular>Bumblebee</singular>
-    <plural>Bumblebees</plural>
+    <singular>Yaban Arısı</singular>
+    <plural>Yaban Arıları</plural>
   </name>
 
   <name key="Koala" tags="f">
     <singular>Koala</singular>
-    <plural>Koalas</plural>
+    <plural>Koalalar</plural>
   </name>
 
 
   <name key="InsectGuard" tags="m">
-    <singular>Insect Guard</singular>
-    <plural>Insect Guards</plural>
+    <singular>Böcek Muhafız</singular>
+    <plural>Böcek Muhafızlar</plural>
   </name>
 
   <name key="PlainRunner" tags="m">
@@ -99,28 +99,28 @@
   </name>
 
   <name key="Frog" tags="m">
-    <singular>Frog</singular>
-    <plural>Frogs</plural>
+    <singular>Kurbağa</singular>
+    <plural>Kurbağalar</plural>
   </name>
 
   <name key="DwarfMale" tags="m">
-    <singular>Dwarf</singular>
-    <plural>Dwarves</plural>
+    <singular>Cüce</singular>
+    <plural>Cüceler</plural>
   </name>
 
   <name key="DwarfFemale" tags="f">
-    <singular>Dwarf</singular>
-    <plural>Dwarves</plural>
+    <singular>Cüce</singular>
+    <plural>Cüceler</plural>
   </name>
 
   <name key="FrogmanMale" tags="m">
-    <singular>Frogman</singular>
-    <plural>Frogmen</plural>
+    <singular>Kurbağa Adam</singular>
+    <plural>Kurbağa Adamlar</plural>
   </name>
 
   <name key="FrogmanFemale" tags="f">
-    <singular>Frogman</singular>
-    <plural>Frogmen</plural>
+    <singular>Kurbağa Adam</singular>
+    <plural>Kurbağa Adamlar</plural>
   </name>
 
   <name key="Mole" tags="m">
